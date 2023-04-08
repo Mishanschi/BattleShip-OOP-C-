@@ -1,6 +1,15 @@
 # Battleship Game 
 
 This is a console-based implementation of the classic Battleship game, written in C# as my first OOP project.
+<br/>
+<br/>
+<br/>
+<br/>
+<img src=https://github.com/Mishanschi/BattleShip-OOP-CSharp/blob/development/Screenshot_3.png class="img-class">
+<br/>
+<br/>
+<br/>
+<br/>
 
 # Getting Started
 
