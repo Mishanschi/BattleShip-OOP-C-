@@ -1,4 +1,4 @@
-# Battleship Game 
+# Battleship Game ⚓️
 
 This is a console-based implementation of the classic Battleship game, written in C# as my first OOP project.
 <br/>
